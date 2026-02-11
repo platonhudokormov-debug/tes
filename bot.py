@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, F
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.filters import CommandStart
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "8595486566:AAEyXAoB8xFV5SOXcdWZ_rqHUMHeGm-KkUs"
 
 # Створення бота та диспетчера
 bot = Bot(token=TOKEN)
